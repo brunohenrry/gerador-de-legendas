@@ -127,5 +127,3 @@ iface.launch()
 Se você quiser contribuir para este projeto, sinta-se à vontade para abrir issues ou enviar pull requests no [repositório do GitHub](https://github.com/brunohenrry/gerador-de-legendas).
 
 ---
-
-Sinta-se à vontade para adaptar este README conforme necessário para seu projeto específico!
